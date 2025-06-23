@@ -68,7 +68,7 @@ The dataset contains 14 features including:
 ## 📎 Related Files
 
 - 📘 [`Customer_Booking_Model_Summary.pptx`](Customer_Booking_Model_Summary.pptx)
-- 📒 [`Notebook`](customer_booking.ipynb)
+- 📒 [`Notebook`](Customer_booking.ipynb)
 
 ---
 
